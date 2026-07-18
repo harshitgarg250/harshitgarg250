@@ -8,8 +8,8 @@ Building production-ready web applications with Node.js, Express, and Supabase �
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on: **Project Name**
-- 🌱 Currently learning: **Kuch bhi jo seekh rahe ho**
+- 🔭 Currently working on: Multi_Agent_coder
+- 🌱 Currently learning: Agentic AI 
 - 💬 Ask me about: **Next.js, React, Node.js, MongoDB**
 - 📫 Reach me: harshitgarg674@gmail.com
 - 🔗 LinkedIn: [in/your-linkedin](https://www.linkedin.com/in/harshitkumar250/)
