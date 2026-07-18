@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Harshit Garg</h1>
-<h3 align="center">Full-Stack Web Developer | MERN & Next.js Specialist</h3>
+# Hi 👋, I'm Harshit Garg
 
-<p align="center">
+### Full-Stack Web Developer | MERN & Next.js Specialist
+
 Building production-ready web applications with Node.js, Express, and Supabase 🚀
-</p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on: Multi_Agent_coder
-- 🌱 Currently learning: Agentic AI 
+
+- 🔭 Currently working on: **Multi Agent Coder**
+- 🌱 Currently learning: **Agentic AI**
 - 💬 Ask me about: **Next.js, React, Node.js, MongoDB**
 - 📫 Reach me: harshitgarg674@gmail.com
-- 🔗 LinkedIn:[harshitkumar250](https://www.linkedin.com/in/harshitkumar250/)
+- 🔗 LinkedIn: [harshitkumar250](https://www.linkedin.com/in/harshitkumar250/)
 
 ---
 
@@ -28,22 +28,33 @@ Building production-ready web applications with Node.js, Express, and Supabase �
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
+- 🏥 **[medcompare](https://github.com/harshitgarg250/medcompare)** — Hospital & Diagnostic Comparison App  
+  Live demo: [https://medcompare-frontend.vercel.app/hospitals]
+
+- 🎵 **[Music-frontend](https://github.com/harshitgarg250/Music-frontend)**  — Full-stack music streaming app  
+  Live demo: [music-frontend-mocha.vercel.app]
+
+- 🤖 **[multi_agent_coder](https://github.com/harshitgarg250/multi_agent_coder)** — Multi-agent AI coding assistant  
+  Live demo: [https://multiagent-code-assistant.streamlit.app/]
+
+> More on my [pinned repos](https://github.com/harshitgarg250?tab=repositories) →
 
 ---
 
 ### 📊 GitHub Metrics & Activity
 
-![Metrics](https://raw.githubusercontent.com/harshitgarg250/harshitgarg250/main/github-metrics.svg)
+[![Metrics](https://raw.githubusercontent.com/harshitgarg250/harshitgarg250/main/github-metrics.svg)](https://raw.githubusercontent.com/harshitgarg250/harshitgarg250/main/github-metrics.svg)
 
 ---
 
 ### 🛠 Workflow & Standards
+
 - **Performance:** Optimized builds using ViteJS and Next.js SSR/ISR
 - **Security:** Robust authentication flows with JWT and Supabase Auth
 - **Scalability:** Clean MVC backend architecture with Node.js
 
 ---
 
-<p align="center"><i>Generated with ❤️ using lowlighter/metrics</i></p>
+*Generated with ❤️ by Harshit Garg*
