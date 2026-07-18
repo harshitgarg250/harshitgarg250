@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Harshit Garg</h1>
 <h3 align="center">Full-Stack Web Developer | MERN & Next.js Specialist</h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ Building production-ready web applications with Node.js, Express, and Supabase �
 ---
 
 ### 📌 Pinned Projects
-> (GitHub automatically inhe show karta hai agar tum "Customize your pins" use karo profile par — code me daalne ki zarurat nahi)
+
 
 ---
 
