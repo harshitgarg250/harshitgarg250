@@ -34,7 +34,7 @@ Building production-ready web applications with Node.js, Express, and Supabase �
   Live demo: [https://medcompare-frontend.vercel.app/hospitals]
 
 - 🎵 **[Music-frontend](https://github.com/harshitgarg250/Music-frontend)**  — Full-stack music streaming app  
-  Live demo: [music-frontend-mocha.vercel.app]
+  Live demo: [https://music-frontend-mocha.vercel.app]
 
 - 🤖 **[multi_agent_coder](https://github.com/harshitgarg250/multi_agent_coder)** — Multi-agent AI coding assistant  
   Live demo: [https://multiagent-code-assistant.streamlit.app/]
